@@ -9,7 +9,7 @@ setup(
     description="A simple ID3 decision tree implementation",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/id3n",
+    url="https://github.com/dingwalnitin/id3n",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
